@@ -1,0 +1,24 @@
+Intermediate Terminal Exercises
+
+Part I
+
+1. FIRST_NAMEDIR=Romeo
+2. FIRST_NAME
+3. echo $PATH
+4. It is a set of paths for our environment to find where to run commands
+5. For securing information and using a variable severally
+6. You can save them in your .bash_profile or .zshrc
+7. A process is a specific computer program which is being excecuted
+8. $ ps -a
+9. You can either use kill or kill -9
+10.-n
+
+Part II
+
+1. find ~/Desktop -name learn
+2. find ~/Desktop -name "P.*"
+3. find ~/Desktop -name "*.txt"
+4. find ~/Desktop/views -name "*data*"
+5. grep -c "Ellie" instructors.txt
+6. grep -w "P.*" instructors.txt
+7. grep -ni "z.*" instructors.txt
